@@ -1,5 +1,5 @@
 "use strict";
-function fibo(n:number):number {
+function fibo(n) {
     if (n == 1) {
         return 1;
     }

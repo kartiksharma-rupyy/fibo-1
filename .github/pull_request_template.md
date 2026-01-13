@@ -10,6 +10,6 @@
 <!-- IN the first case i checked the edge cases of n==0 and n==1 and also it should be a positive number -->
 
 ## Checklist
-- [ ] Code is linted
-- [ ] Functionality verified for edge cases (e.g., n = 0, n = 1)
-- [ ] PR description filled out
+* [ ] Code is linted
+* [ ] Functionality verified for edge cases (e.g., n = 0, n = 1)
+* [ ] PR description filled out
